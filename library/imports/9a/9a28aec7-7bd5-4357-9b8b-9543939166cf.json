@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "equit_armor_01",
+    "texture": "0d0cb526-6f63-4aad-b565-e3ca6a7f1132",
+    "atlas": "ce0fb307-84f4-4841-a0ec-4b0960e7ba6e",
+    "rect": [
+      492,
+      1515,
+      64,
+      66
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

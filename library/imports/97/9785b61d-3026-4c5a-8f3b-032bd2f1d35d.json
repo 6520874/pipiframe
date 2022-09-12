@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "11003_Talent4_aghand_r_m",
+    "texture": "f6a10d9d-9854-4616-83bf-2ce3733be591",
+    "atlas": "0ae65acb-c1ad-4db8-8e14-ca5d683aa07e",
+    "rect": [
+      415,
+      253,
+      33,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      39,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

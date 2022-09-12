@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "11003_Talent4_dun_02",
+    "texture": "f6a10d9d-9854-4616-83bf-2ce3733be591",
+    "atlas": "0ae65acb-c1ad-4db8-8e14-ca5d683aa07e",
+    "rect": [
+      394,
+      115,
+      115,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      115,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

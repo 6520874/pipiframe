@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_soldierhead_31500",
+    "texture": "0d0cb526-6f63-4aad-b565-e3ca6a7f1132",
+    "atlas": "ce0fb307-84f4-4841-a0ec-4b0960e7ba6e",
+    "rect": [
+      747,
+      63,
+      70,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

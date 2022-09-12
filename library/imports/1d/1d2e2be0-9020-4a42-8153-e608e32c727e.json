@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "11003_Talent4_agleg",
+    "texture": "f6a10d9d-9854-4616-83bf-2ce3733be591",
+    "atlas": "0ae65acb-c1ad-4db8-8e14-ca5d683aa07e",
+    "rect": [
+      132,
+      206,
+      49,
+      93
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      51,
+      97
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

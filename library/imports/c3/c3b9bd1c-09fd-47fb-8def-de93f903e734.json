@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "Res.d",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "declare namespace cc {\r\n    interface Asset {\r\n        refDepends : boolean;\r\n        refCount : number;\r\n        addRef();\r\n        decRef(autoRelease: boolean = false);\r\n    }\r\n}"
+}

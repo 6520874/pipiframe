@@ -1,0 +1,68 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "11003_Talent4.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "11003_Talent4_agbody": {
+      "__uuid__": "128e7d8b-72a6-45f7-865b-9f67e446b2fb"
+    },
+    "11003_Talent4_aghand_l_m": {
+      "__uuid__": "69e8f20f-3726-43e0-85b5-f6ab68db1bc7"
+    },
+    "11003_Talent4_aghand_l_u": {
+      "__uuid__": "761887fb-7522-44a5-b3cc-d61e8719c026"
+    },
+    "11003_Talent4_aghand_r_d": {
+      "__uuid__": "a1bcf08f-e69a-4ac7-b3e1-458033b890c2"
+    },
+    "11003_Talent4_aghand_r_m": {
+      "__uuid__": "9785b61d-3026-4c5a-8f3b-032bd2f1d35d"
+    },
+    "11003_Talent4_aghand_r_u": {
+      "__uuid__": "7001f389-1447-48ba-90be-80f656263874"
+    },
+    "11003_Talent4_agjianjia_l": {
+      "__uuid__": "655acae6-20c4-4043-9abd-511cf9457617"
+    },
+    "11003_Talent4_agjianjia_r": {
+      "__uuid__": "5c713894-bd5b-4fb5-962f-9fb4d4d2da0b"
+    },
+    "11003_Talent4_agleg": {
+      "__uuid__": "1d2e2be0-9020-4a42-8153-e608e32c727e"
+    },
+    "11003_Talent4_agweapon": {
+      "__uuid__": "2ec53e16-c66f-458b-be0d-a6fbbfe1a2fe"
+    },
+    "11003_Talent4_chongjibo_green": {
+      "__uuid__": "4b548495-d832-4656-be7b-943e36f42fb5"
+    },
+    "11003_Talent4_chongjibo_red": {
+      "__uuid__": "190cc167-7680-4ea7-9bb1-8c1f1d364c63"
+    },
+    "11003_Talent4_dun_00": {
+      "__uuid__": "40416f84-2eef-46a0-bc1c-4b5344bd9f54"
+    },
+    "11003_Talent4_dun_01": {
+      "__uuid__": "66ef5006-0b49-4cf9-9ab7-60ab489cac3d"
+    },
+    "11003_Talent4_dun_02": {
+      "__uuid__": "b92387fa-2bc1-420f-8aba-9e9469921238"
+    },
+    "11003_Talent4_fly": {
+      "__uuid__": "17c289f8-a126-4f2d-bf5a-1583c51772be"
+    },
+    "11003_Talent4_guangzhu": {
+      "__uuid__": "cc5e64a3-f380-4574-bfe9-97528c0ccea7"
+    },
+    "11003_Talent4_guangzhu_green": {
+      "__uuid__": "78a4fa60-be32-4bee-a185-1f8a3777c37f"
+    },
+    "11003_Talent4_guanzhuxian": {
+      "__uuid__": "79bd418f-db4b-48e5-842b-294f5adf167e"
+    },
+    "11003_Talent4_shader": {
+      "__uuid__": "4c1a5b7c-04a6-4f06-bddf-0bd50148696d"
+    }
+  }
+}
